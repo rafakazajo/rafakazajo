@@ -25,4 +25,4 @@ Me gusta cacharrear: montar cosas en Linux, trastear con dispositivos y entender
 ## Contacto
 
 - GitHub: [@rafakazajo](https://github.com/rafakazajo)
-- kazajillo@gmail.com
+- Correo: kazajillo@gmail.com
